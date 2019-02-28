@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1479126883 source:c:\users\adam\desktop\c++\lab\rocket\courses_graphics-master\winbgi2.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"winbgi2.h"
+
+1479126883 c:\users\adam\desktop\c++\lab\rocket\courses_graphics-master\winbgi2.h
+
+1534689321 source:c:\users\adam\desktop\c++\lab\rocket\courses_graphics-master\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<windows.h>
+	<vector>
+	"winbgi2.h"
+
+1536757986 source:c:\am\nowy folder\adjoint\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<windows.h>
+	<vector>
+
+1536314944 c:\am\nowy folder\adjoint\winbgi2.h
+
+1479126883 source:c:\am\nowy folder\adjoint\winbgi2.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"winbgi2.h"
+
+1536768680 source:c:\am\nowy folder\adjoint_nowe\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<windows.h>
+	<vector>
+
+1536931055 source:c:\am\nowy folder\adjoint_tangent\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<windows.h>
+	<vector>
+
+1539177244 source:c:\users\adam\desktop\code4fun\lab\rocket\adjoint_project\adjoint_tangent_single\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<windows.h>
+	<vector>
+	"winbgi2.h"
+
+1536318544 c:\users\adam\desktop\code4fun\lab\rocket\adjoint_project\adjoint_tangent_single\winbgi2.h
+
+1479126883 source:c:\users\adam\desktop\code4fun\lab\rocket\adjoint_project\adjoint_tangent_single\winbgi2.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"winbgi2.h"
+
+1479123283 source:c:\users\adam\desktop\code4fun\lab\rocket\adjoint_project\adjoint_tangent_single_dziala\winbgi2.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"winbgi2.h"
+
+1536314944 c:\users\adam\desktop\code4fun\lab\rocket\adjoint_project\adjoint_tangent_single_dziala\winbgi2.h
+
+1539264042 source:c:\users\adam\desktop\code4fun\lab\rocket\adjoint_project\adjoint_tangent_single_dziala\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<windows.h>
+	<vector>
+	"winbgi2.h"
+
